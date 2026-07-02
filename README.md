@@ -107,10 +107,10 @@ Tables and views:
 
 Add the dashboard screenshot here after exporting it from Looker Studio.
 
-```markdown
+
 ![Dashboard Preview](dashboard/dashboard_screenshot.png)
 ![Dashboard Preview](dashboard/dashboard_screenshot2.png)
-```
+
 
 ---
 
