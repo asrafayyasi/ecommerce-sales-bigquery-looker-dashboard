@@ -109,7 +109,7 @@ Add the dashboard screenshot here after exporting it from Looker Studio.
 
 
 ![Dashboard Preview](dashboard/dashboard_screenshot.png)
-![Dashboard Preview](dashboard/dashboard_screenshot2.png)
+![Dashboard Preview](dashboard/dashboard_screenshot2.jpg)
 
 
 ---
